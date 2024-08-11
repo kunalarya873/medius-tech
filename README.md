@@ -1,0 +1,2 @@
+# medius-tech
+Internship assignment
